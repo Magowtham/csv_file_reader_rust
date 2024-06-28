@@ -29,15 +29,18 @@ fn csv_file_reader(path:&str)->bool{
 }
 
 fn main(){
+    println!("\nWelcome to the CSV File Reader Tool!");
+    println!("🦀🦀 🦀🦀🦀 🦀🦀🦀🦀🦀 🦀🦀🦀 🦀🦀\n");
+  
     let path="./test.csv";
 
 
    let result=csv_file_reader(path);
 
    if result {
-    println!("CSV file read successfully");
+    println!("\nCSV file read successfully");
    }else{
-    eprintln!("Failed to read csv file!!");
+    eprintln!("\nFailed to read csv file!!");
    }
 
 }
