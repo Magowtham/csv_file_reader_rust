@@ -2,7 +2,7 @@
 
 CSV File Reader is a simple command-line application that reads and processes CSV files. The app is written in Rust and can be easily installed and run on your local machine.
 
-![Weather CLI App Screenshot](https://github.com/Magowtham/weather_cli_app_rust/blob/main/example_images/example.png)
+![Weather CLI App Screenshot](https://github.com/Magowtham/csv_file_reader_rust/blob/main/example_images/example1.png)
 
 ## Features
 
